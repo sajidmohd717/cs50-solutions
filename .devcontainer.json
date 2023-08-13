@@ -1,0 +1,10 @@
+{
+  "forwardPorts": [
+    5000,
+    5900,
+    6081,
+    8080,
+    8082
+  ],
+  "image": "ghcr.io/cs50/codespace:cd5fc668773e387f8cef082623bc7e39eaa9cecb"
+}

@@ -1,0 +1,6 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "string_view": "c"
+    }
+}
